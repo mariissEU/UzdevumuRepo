@@ -1,0 +1,2 @@
+# UzdevumuRepo
+For tests
